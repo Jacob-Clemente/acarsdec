@@ -1,0 +1,5 @@
+project: jacob-clemente/acarsdec
+target: acarsdec
+
+cmds:
+  - cmd: /acarsdec -f @@
